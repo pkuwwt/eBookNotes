@@ -3,5 +3,5 @@ eBookNotes
 
 In progress...
 
-[pdf.js.demo](pkuwwt.github.com/eBookNotes/pdf.js.demo/viewer.html)
+[pdf.js.demo](http://pkuwwt.github.com/eBookNotes/pdf.js.demo/viewer.html)
 
